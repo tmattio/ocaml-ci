@@ -130,6 +130,7 @@
   ocaml-ci-client-lib
   (prometheus-app (>= 1.2))
   tyxml
+  tailwindcss
   (timedesc (>= 0.9.0)))
 )
 (package
